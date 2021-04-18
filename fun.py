@@ -13,3 +13,4 @@ def duplicateStrings (myString, n):
 
 printNums()
 duplicateStrings("cat", 5)
+duplicateStrings("dog", 3)
